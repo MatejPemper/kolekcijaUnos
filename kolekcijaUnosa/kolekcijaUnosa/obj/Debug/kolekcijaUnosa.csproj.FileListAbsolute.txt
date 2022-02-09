@@ -1,0 +1,11 @@
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.csproj.AssemblyReference.cache
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.Form1.resources
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.Properties.Resources.resources
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\bin\Debug\kolekcijaUnosa.exe.config
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\bin\Debug\kolekcijaUnosa.exe
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\bin\Debug\kolekcijaUnosa.pdb
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.exe
+C:\Users\Matej\source\repos\kolekcijaUnosa\kolekcijaUnosa\obj\Debug\kolekcijaUnosa.pdb
